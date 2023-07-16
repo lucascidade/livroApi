@@ -1,0 +1,17 @@
+C:\Users\hit and run\Desktop\MinimalAPI\ConsoleLivro\ConsoleLivro\bin\Debug\net7.0\ConsoleLivro.exe
+C:\Users\hit and run\Desktop\MinimalAPI\ConsoleLivro\ConsoleLivro\bin\Debug\net7.0\ConsoleLivro.deps.json
+C:\Users\hit and run\Desktop\MinimalAPI\ConsoleLivro\ConsoleLivro\bin\Debug\net7.0\ConsoleLivro.runtimeconfig.json
+C:\Users\hit and run\Desktop\MinimalAPI\ConsoleLivro\ConsoleLivro\bin\Debug\net7.0\ConsoleLivro.dll
+C:\Users\hit and run\Desktop\MinimalAPI\ConsoleLivro\ConsoleLivro\bin\Debug\net7.0\ConsoleLivro.pdb
+C:\Users\hit and run\Desktop\MinimalAPI\ConsoleLivro\ConsoleLivro\bin\Debug\net7.0\RestSharp.dll
+C:\Users\hit and run\Desktop\MinimalAPI\ConsoleLivro\ConsoleLivro\obj\Debug\net7.0\ConsoleLivro.csproj.AssemblyReference.cache
+C:\Users\hit and run\Desktop\MinimalAPI\ConsoleLivro\ConsoleLivro\obj\Debug\net7.0\ConsoleLivro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hit and run\Desktop\MinimalAPI\ConsoleLivro\ConsoleLivro\obj\Debug\net7.0\ConsoleLivro.AssemblyInfoInputs.cache
+C:\Users\hit and run\Desktop\MinimalAPI\ConsoleLivro\ConsoleLivro\obj\Debug\net7.0\ConsoleLivro.AssemblyInfo.cs
+C:\Users\hit and run\Desktop\MinimalAPI\ConsoleLivro\ConsoleLivro\obj\Debug\net7.0\ConsoleLivro.csproj.CoreCompileInputs.cache
+C:\Users\hit and run\Desktop\MinimalAPI\ConsoleLivro\ConsoleLivro\obj\Debug\net7.0\ConsoleLivro.csproj.CopyComplete
+C:\Users\hit and run\Desktop\MinimalAPI\ConsoleLivro\ConsoleLivro\obj\Debug\net7.0\ConsoleLivro.dll
+C:\Users\hit and run\Desktop\MinimalAPI\ConsoleLivro\ConsoleLivro\obj\Debug\net7.0\refint\ConsoleLivro.dll
+C:\Users\hit and run\Desktop\MinimalAPI\ConsoleLivro\ConsoleLivro\obj\Debug\net7.0\ConsoleLivro.pdb
+C:\Users\hit and run\Desktop\MinimalAPI\ConsoleLivro\ConsoleLivro\obj\Debug\net7.0\ConsoleLivro.genruntimeconfig.cache
+C:\Users\hit and run\Desktop\MinimalAPI\ConsoleLivro\ConsoleLivro\obj\Debug\net7.0\ref\ConsoleLivro.dll

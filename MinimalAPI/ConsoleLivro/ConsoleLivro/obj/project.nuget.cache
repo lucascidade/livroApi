@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WaXQYozGuEc5mX1q7ln2NlQbU1dzCfTTDFyR1Ph/ZJDfmR057BA3kW0VNTwTuMUmpEGMP8vwFEFGSec2YC3+7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hit and run\\Desktop\\MinimalAPI\\ConsoleLivro\\ConsoleLivro\\ConsoleLivro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hit and run\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\hit and run\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\hit and run\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
